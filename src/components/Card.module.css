@@ -1,0 +1,6 @@
+.card{
+    background-color: white;
+    box-shadow: 2px 2px 8px 4px rgba(0, 0,0 , .26);
+    /* height: fit-content; */
+    padding: 1rem;
+}
